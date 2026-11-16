@@ -15,6 +15,7 @@ I have hands-on experience working on production systems using **Node.js, NestJS
 - 🎓 ITI Graduate – Open Source Application Development Track.
 - 🌐 Portfolio: [mohamed-ahmed-rashad.vercel.app](https://mohamed-ahmed-rashad.vercel.app)
 - 📫 Email: **mohamed.a7med0101120@gmail.com**
+- 📞 Phone: [+20 1011207968](tel:+201011207968)
 
 ---
 
@@ -145,14 +146,6 @@ Working on multiple production platforms:
 | **Job Board Platform** | Job platform allowing employers to publish and manage job listings while candidates search and filter opportunities. | `Laravel`, `Vue.js`, `MySQL` |
 | **Exam System (SPA)** | Role-based examination platform for students and administrators with real-time result calculation. | `Angular`, `Node.js`, `Express`, `MongoDB` |
 | **E-Commerce Platform** | Multi-role e-commerce backend supporting users, sellers, and admins, with product management, shopping cart, and order processing. | `Node.js`, `Express`, `MongoDB`, `Mongoose` |
-
----
-
-## 📊 GitHub Statistics
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo7amed010&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed010&layout=compact&theme=radical)
 
 ---
 
